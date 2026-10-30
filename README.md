@@ -1,13 +1,5 @@
 # 💐 Verdant Performance Dashboard & Sales Analysis
 
-## 🖼️ Dashboard Preview
-![Verdant Executive Dashboard]
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/21112f53-5d7e-4607-b323-fb2b7371fbbf" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/de320e1a-8a2b-4d64-8b5a-9dbf9c058bda" />
-<img width="1366" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/71f2c84e-ca0c-487a-87e7-c95b328f322d" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/eca094e1-2524-4b8d-944e-82a7480334d8" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/120e9ed6-5f9f-4a84-81c1-7c6137818780" />
-
 ---
 
 ## 📖 Project Overview
@@ -86,6 +78,16 @@ E-commerce businesses process thousands of orders daily. This Excel dashboard pr
 
 ## 📂 Project Category
 Data Analytics | E-Commerce Sales Analytics | Advanced Excel | Executive Dashboards | Business Intelligence
+
+---
+
+## 🖼️ Dashboard Preview
+![Verdant Executive Dashboard]
+<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/21112f53-5d7e-4607-b323-fb2b7371fbbf" />
+<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/de320e1a-8a2b-4d64-8b5a-9dbf9c058bda" />
+<img width="1366" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/71f2c84e-ca0c-487a-87e7-c95b328f322d" />
+<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/eca094e1-2524-4b8d-944e-82a7480334d8" />
+<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/120e9ed6-5f9f-4a84-81c1-7c6137818780" />
 
 ---
 
