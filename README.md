@@ -1,4 +1,4 @@
-# 💐 Verdant Performance Dashboard & Sales Analysis
+<img width="9456" height="4506" alt="Picture3" src="https://github.com/user-attachments/assets/77601021-ef55-4d0d-a956-ae42215f1d86" /># 💐 Verdant Performance Dashboard & Sales Analysis
 
 ---
 
@@ -83,11 +83,12 @@ Data Analytics | E-Commerce Sales Analytics | Advanced Excel | Executive Dashboa
 
 ## 🖼️ Dashboard Preview
 ![Verdant Executive Dashboard]
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/21112f53-5d7e-4607-b323-fb2b7371fbbf" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/de320e1a-8a2b-4d64-8b5a-9dbf9c058bda" />
-<img width="1366" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/71f2c84e-ca0c-487a-87e7-c95b328f322d" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/eca094e1-2524-4b8d-944e-82a7480334d8" />
-<img width="1366" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/120e9ed6-5f9f-4a84-81c1-7c6137818780" />
+<img width="9456" height="4506" alt="Picture1" src="https://github.com/user-attachments/assets/19e6e790-dd50-4ced-a99d-8759532d98dc" />
+<img width="9456" height="4506" alt="Picture2" src="https://github.com/user-attachments/assets/77aa29f6-dfad-47fa-96e9-f405eac9058e" />
+<img width="9456" height="4506" alt="Picture3" src="https://github.com/user-attachments/assets/8864380e-4aa4-417f-8a96-cd2ef4103b01" />
+<img width="9456" height="4506" alt="Picture5" src="https://github.com/user-attachments/assets/c29d8fcf-4785-4f91-afa8-daae10a82cf8" />
+<img width="9456" height="4506" alt="Picture6" src="https://github.com/user-attachments/assets/a6a2eca9-1cf0-4c43-a4a9-ab1fa3a9747d" />
+
 
 ---
 
