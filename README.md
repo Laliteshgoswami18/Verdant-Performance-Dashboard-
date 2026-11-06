@@ -1,4 +1,4 @@
-<img width="9456" height="4506" alt="Picture3" src="https://github.com/user-attachments/assets/77601021-ef55-4d0d-a956-ae42215f1d86" /># 💐 Verdant Performance Dashboard & Sales Analysis
+💐 Verdant Performance Dashboard & Sales Analysis
 
 ---
 
